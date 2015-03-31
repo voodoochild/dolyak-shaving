@@ -1,0 +1,7 @@
+{
+  "name": "dolyak-shaving",
+  "dependencies": {
+    "normalize-scss": "~3.0.2",
+    "mithril": "~0.1.33"
+  }
+}
